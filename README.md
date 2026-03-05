@@ -1,7 +1,9 @@
 # Project Title
 
-![Hero Banner](./assets/hero_banner.jpeg)
-
 ## Description
 
-This is a sample project to demonstrate updating README.
+This project includes a preview of the hero image as hero_banner.jpeg.
+
+## Installation
+
+Instructions for installation go here.
