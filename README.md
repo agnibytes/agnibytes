@@ -1,97 +1,138 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey There! 👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=fadeIn&type=waving&color=gradient&height=120" width="800"/>
 </div>
-<div align="center">
-<img src="./assets/hero_banner.jpeg" alt="Hero Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
-# 👩‍💻 Aaditya Tiwari
-### ✦ Software Developer | B.Tech CSE (2nd Year) | System Design Enthusiast ✦
-*🚀 Curious. Creative. Code-driven. Engineering robust solutions one commit at a time.*
-<br>
-<!-- Minimal Icon Social Links -->
 <p align="center">
+  <img src="./assets/hero_banner.jpeg" alt="Hero Banner" width="800" style="border-radius: 15px; margin-bottom: 20px;">
+</p>
+# 👩‍💻 Aaditya Tiwari — Developer Girl
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2E95D3&center=false&vCenter=true&width=435&lines=Software+Developer;B.Tech+CSE+(2nd+Year);System+Design+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+</p>
+*🚀 Curious. Creative. Code-driven. Building skills one bug, one build, and one bold idea at a time.*
+<!-- Social Links -->
+<p align="left">
   <a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" style="margin: 0 10px; transition: transform 0.3s;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/agnibytes">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="margin: 0 10px; transition: transform 0.3s;"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-</div>
+<!-- Visitor Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=agnibytes&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
 ---
 <br>
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td align="center" width="30%">
-      <img src="./assets/avatar.png" alt="Aaditya avatar" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    </td>
-    <td width="70%">
 ## 🌸 About Me
+<img align="right" src="./assets/avatar.png" alt="Aaditya avatar" width="160" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-left: 20px; margin-bottom: 20px;">
+Hi, I'm **Aaditya Tiwari** — a passionate **developer girl** currently pursuing my B.Tech Engineering in Nagpur.  
+I love learning by doing, breaking things (politely), fixing them, and turning small ideas into real projects. I strongly believe in: **learning fast, building fast, and failing forward.**
+✨ **My Developer Girl Energy:**  
+Creative mind | Technical curiosity | Strong learning mindset | Hungry to build real things
 ```yaml
 name: "Aaditya Tiwari"
 role: "Core Developer @ Team Agnibytes"
 education: "B.Tech CSE, 2nd Year @ KDKCE Nagpur"
-focus:
-  - "Scalable Web Architectures"
-  - "Advanced System Design"
-  - "Creative UI/UX"
-philosophy: |
-  Learning fast, building fast, and failing forward. 
-  Code is poetry that executes.
-hobbies:
-  - "Hackathons"
-  - "Breaking things (politely)"
-  - "Fixing them"
+focus: ["Scalable Web Architectures", "Advanced System Design"]
 ```
-    </td>
-  </tr>
-</table>
----
-<br>
-## 🧰 Tools and Tech Stuff
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="55" height="55" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="55" height="55" style="margin-right: 15px;"/>
-</p>
----
-<br>
-## 💼 Experience & Projects
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Team Agnibytes</h3>
-      <div align="center"><img src="./assets/project_tile.png" alt="Project Showcase Tile" width="100%" style="border-radius: 10px;"></div>
-      <p><b>Core Developer</b></p>
-      <p>Spearheading the development of scalable frontends. This intense, fast-paced environment has fundamentally shaped my approach to robust system architecture and collaborative development.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Hackathons</h3>
-      <div align="center"><img src="./assets/timeline_ribbon.png" alt="Timeline Ribbon" width="100%" style="border-radius: 10px;"></div>
-      <p><b>Government Polytechnic College Hackathon</b></p>
-      <p>Competed alongside Team Agnibytes in a high-pressure environment. Delivered a working prototype under tight deadlines, showcasing rapid prototyping and effective teamwork.</p>
-    </td>
-  </tr>
-</table>
----
-<br>
-<div align="center">
-## 📈 GitHub History & Stats
+<br clear="both"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true" alt="Dynamic GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnibytes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="./assets/cat_coding.png" alt="Cat Coding" width="500">
+  <br>
+  <em>When the build passes and the cat approves 🐱💗</em>
+</p>
+---
+<br>
+## 💻 Tech Stack & Tools
+### 🔧 What I Work With
+<p align="center">
+  <img src="./assets/skills_cloud.png" alt="Skills Cloud" width="600">
+</p>
+**Interactive Badges:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white" alt="Bash">
+</p>
+---
+<br>
+## 🚀 Projects & Experience
+### 🔥 Team Agnibytes Projects
+*Building scalable frontends and learning robust system design. It was intense, chaotic, and completely changed how I see development.*
+<p align="center">
+  <img src="./assets/project_tile.png" alt="Project Showcase Tile" width="600" style="border-radius: 10px;">
+</p>
+---
+<br>
+## ⚡ Journey & Hackathon Experience
+*My first hackathon was with Team Agnibytes at Government Polytechnic College. A real taste of teamwork under pressure!*
+<p align="center">
+  <img src="./assets/timeline_ribbon.png" alt="Timeline Ribbon" width="800" style="border-radius: 10px;">
+</p>
+---
+<br>
+## 📊 Analytics & Impact
+<p align="center">
+  <img src="./assets/stat_cards.png" alt="Stats Cards" width="800" style="border-radius: 10px;">
+</p>
+<p align="center">
+  <img src="./assets/contribution_graph.png" alt="Contribution Heatmap" width="800" style="border-radius: 10px;">
+  <br>
+  <em>Little paw marks my best streaks 🐾</em>
+</p>
+---
+<br>
+## 📈 Live GitHub Activity
+### Overall Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true" alt="Dynamic GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnibytes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="310">
+</p>
+### Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnibytes&theme=radical&hide_border=true" alt="GitHub Streak" width="700">
+</p>
+### Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnibytes&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="800">
+</p>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/agnibytes/agnibytes/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="800">
+</p>
+---
+<br>
+## ✉️ Let's Connect!
+I'm always open to collabs, hackathons & friendly coding chats.
+<p align="center">
+  <a href="https://github.com/agnibytes">
+    <img src="./assets/contact_card.png" alt="Contact Card" width="400" style="border-radius: 10px;">
+  </a>
 </p>
 <br>
-## 🐍 Contribution Snake
-![snake gif](https://github.com/agnibytes/agnibytes/blob/output/github-contribution-grid-snake.svg)
-</div>
+Find me on [LinkedIn Profile](https://www.linkedin.com/in/aaditya-tiwari-2b1996333/) | [GitHub](https://github.com/agnibytes)
+---
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Build.%20Break.%20Learn.%20Repeat.&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+## 💭 Thoughts of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" width="600">
+</p>
+<br><br>
+<img src="./assets/footer_signature.png" alt="Footer Signature" width="400" style="margin-bottom: 20px;">
+  
+<br>
+  
+> **Build. Break. Learn. Repeat.**
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Build.%20Break.%20Learn.%20Repeat.&animation=fadeIn&type=waving&color=gradient&height=100&section=footer" width="800">
+</p>
