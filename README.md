@@ -9,24 +9,33 @@
 # 👩‍💻 Aaditya Tiwari — Developer Girl
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2E95D3&center=false&vCenter=true&width=435&lines=Software+Developer;B.Tech+CSE+(2nd+Year);System+Design+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2E95D3&center=false&vCenter=true&width=435&lines=Software+Developer;B.Tech+CSE+(2nd+Year);System+Design+Enthusiast;Creative+Problem+Solver" />
 </p>
 
 *🚀 Curious. Creative. Code-driven. Building skills one bug, one build, and one bold idea at a time.*
 
+---
+
 ## 🌐 Connect with me
 
-<p>
-<a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
-<img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Tiwari-0A66C2?style=flat&logo=linkedin"/>
-</a>
-</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/agnibytes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-agnibytes-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://at-theta-rose.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://wa.me/919404311453?text=Hi%20you%20shared%20your%20number%20its%20me%20-">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.snapchat.com/add/aaditiwari_24">
+    <img src="https://img.shields.io/badge/Snapchat-Add%20Me-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCbwaXob0OaHP7a8660QwLBg">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -36,25 +45,30 @@
 
 ---
 
-<br>
-
 ## 🌸 About Me
 
 <img align="right" src="./assets/avatar.png" width="160" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
-Hi, I'm **Aaditya Tiwari** — a passionate **developer girl** currently pursuing my B.Tech Engineering in Nagpur.
+Hi, I'm **Aaditya Tiwari** — a passionate **developer girl** currently pursuing B.Tech in Computer Science & Engineering.
 
-I love learning by doing, breaking things (politely), fixing them, and turning small ideas into real projects.
-I strongly believe in: **learning fast, building fast, and failing forward.**
+I love learning by doing, breaking things, fixing them, and turning ideas into real projects.  
+I believe in: **learning fast, building fast, failing forward.**
 
-✨ **My Developer Girl Energy:**
-Creative mind | Technical curiosity | Strong learning mindset | Hungry to build real things
+✨ **My Developer Energy**
+- Creative mind  
+- Technical curiosity  
+- Strong learning mindset  
+- Hungry to build real things  
 
 ```yaml
 name: "Aaditya Tiwari"
+username: "agnibytes"
 role: "Core Developer @ Team Agnibytes"
 education: "B.Tech CSE, 2nd Year @ KDKCE Nagpur"
-focus: ["Scalable Web Architectures", "Advanced System Design"]
+focus:
+  - Scalable Web Architectures
+  - Advanced System Design
+  - Product Thinking
 ```
 
 <br clear="both"/>
@@ -67,17 +81,11 @@ focus: ["Scalable Web Architectures", "Advanced System Design"]
 
 ---
 
-<br>
-
 ## 💻 Tech Stack & Tools
-
-### 🔧 What I Work With
 
 <p align="center">
   <img src="./assets/skills_cloud.png" width="600">
 </p>
-
-**Interactive Badges:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -95,70 +103,93 @@ focus: ["Scalable Web Architectures", "Advanced System Design"]
 
 ---
 
-<br>
+## 🌟 Featured Projects
 
-## 🚀 Projects & Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔥 Team Agnibytes Projects
+### 🚀 SevaSetu
+Meaningful project focused on impact, clean architecture, and UX.
 
-*Building scalable frontends and learning robust system design. It was intense, chaotic, and completely changed how I see development.*
+<a href="https://github.com/agnibytes/SevaSetu">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=agnibytes&repo=SevaSetu&theme=radical&hide_border=true"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Portfolio
+Explore my builds and experiments.
+
+<a href="https://github.com/agnibytes">
+<img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 System Design Thinking
+
+- Scalability > shortcuts  
+- Clean architecture > messy hacks  
+- Performance > overengineering  
+- Simplicity > complexity  
+
+---
+
+## 📖 Currently Learning
+
+- Advanced System Design  
+- Backend Architecture  
+- Linux Internals & DevOps  
+- Open Source  
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5 production-level projects  
+- Master system design  
+- Participate in 3+ hackathons  
+- Contribute to open source  
+
+---
+
+## 💡 Dev Philosophy
+
+> "Code is designed, tested, broken, and evolved."
+
+---
+
+## 😂 Dev Joke
 
 <p align="center">
-  <img src="./assets/project_tile.png" width="600" style="border-radius: 10px;">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
 </p>
 
 ---
 
-<br>
-
-## ⚡ Journey & Hackathon Experience
-
-*My first hackathon was with Team Agnibytes at Government Polytechnic College.*
-
-<p align="center">
-  <img src="./assets/timeline_ribbon.png" width="800" style="border-radius: 10px;">
-</p>
-
----
-
-<br>
-
-## 📊 Analytics & Impact
-
-<p align="center">
-  <img src="./assets/stat_cards.png" width="800" style="border-radius: 10px;">
-</p>
-
-<p align="center">
-  <img src="./assets/contribution_graph.png" width="800" style="border-radius: 10px;">
-  <br>
-  <em>Little paw marks my best streaks 🐾</em>
-</p>
-
----
-
-<br>
-
-## 📈 Live GitHub Activity
-
-### Overall Stats & Top Languages
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnibytes&layout=compact&theme=radical&hide_border=true" width="310">
 </p>
 
-### Contribution Streak
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnibytes&theme=radical&hide_border=true" width="700">
 </p>
 
-### Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnibytes&theme=react-dark&hide_border=true&area=true" width="800">
 </p>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -168,28 +199,15 @@ focus: ["Scalable Web Architectures", "Advanced System Design"]
 
 ---
 
-<br>
-
-## ✉️ Let's Connect!
-
-I'm always open to collabs, hackathons & friendly coding chats.
+## ✉️ Let's Connect
 
 <p align="center">
   <a href="https://github.com/agnibytes">
-    <img src="./assets/contact_card.png" width="400" style="border-radius: 10px;">
+    <img src="./assets/contact_card.png" width="400">
   </a>
 </p>
 
-<br>
-
-Find me on
-[LinkedIn Profile](https://www.linkedin.com/in/aaditya-tiwari-2b1996333/) | [GitHub](https://github.com/agnibytes)
-
 ---
-
-<br>
-
-<div align="center">
 
 ## 💭 Thoughts of the Day
 
@@ -197,13 +215,15 @@ Find me on
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600">
 </p>
 
-<br><br>
+<p align="center">
+  <img src="./assets/footer_signature.png" width="400">
+</p>
 
-<img src="./assets/footer_signature.png" width="400" style="margin-bottom: 20px;">
+---
 
-<br>
+<div align="center">
 
-> **Build. Break. Learn. Repeat.**
+### Build. Break. Learn. Repeat.
 
 </div>
 
