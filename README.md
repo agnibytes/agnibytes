@@ -169,9 +169,11 @@ Explore my builds and experiments.
 ## 😂 Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+  <img 
+    src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" 
+    width="500"
+  />
 </p>
-
 ---
 
 ## 📈 GitHub Activity
