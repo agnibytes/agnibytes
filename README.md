@@ -14,6 +14,13 @@
 
 *🚀 Curious. Creative. Code-driven. Building skills one bug, one build, and one bold idea at a time.*
 
+## 🌐 Connect with me
+
+<p>
+<a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
+<img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Tiwari-0A66C2?style=flat&logo=linkedin"/>
+</a>
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
