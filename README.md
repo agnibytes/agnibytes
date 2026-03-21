@@ -174,7 +174,6 @@ Explore my builds and experiments.
     width="500"
   />
 </p>
----
 
 ## 📈 GitHub Activity
 
