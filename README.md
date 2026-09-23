@@ -1,5 +1,5 @@
+
 <div align="center">
-  <!-- Hero banner with a gradient animation -->
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=fadeIn&type=waving&color=gradient&height=120" width="800"/>
 </div>
 
@@ -9,123 +9,226 @@
 
 # 👩‍💻 Aaditya Tiwari — Developer Girl
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2E95D3&center=false&vCenter=true&width=435&lines=Software+Developer;B.Tech+CSE+(2nd+Year);System+Design+Enthusiast;Creative+Problem+Solver" />
 </p>
 
-*🚀 Curious. Creative. Code‑driven. Building skills one bug, one build, and one bold idea at a time.*
+*🚀 Curious. Creative. Code-driven. Building skills one bug, one build, and one bold idea at a time.*
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect with me
 
-<p align="center">
-  <a href="https://at-theta-rose.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4A90E2?style=for-the-badge&logo=chrome" alt="Portfolio"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aaditya-tiwari-2b1996333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/agnibytes">
+    <img src="https://img.shields.io/badge/GitHub-agnibytes-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://at-theta-rose.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://wa.me/919404311453?text=Hi%20you%20shared%20your%20number%20its%20me%20-">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.snapchat.com/add/aaditiwari_24">
+    <img src="https://img.shields.io/badge/Snapchat-Add%20Me-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCbwaXob0OaHP7a8660QwLBg">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=agnibytes&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌸 About Me
+
+<img align="right" src="./assets/avatar.png" width="160" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
+
+Hi, I'm **Aaditya Tiwari** — a passionate **developer girl** currently pursuing B.Tech in Computer Science & Engineering.
+
+I love learning by doing, breaking things, fixing them, and turning ideas into real projects.  
+I believe in: **learning fast, building fast, failing forward.**
+
+✨ **My Developer Energy**
+- Creative mind  
+- Technical curiosity  
+- Strong learning mindset  
+- Hungry to build real things  
+
+```yaml
+name: "Aaditya Tiwari"
+username: "agnibytes"
+role: "Core Developer @ Team Agnibytes"
+education: "B.Tech CSE, 2nd Year @ KDKCE Nagpur"
+focus:
+  - Scalable Web Architectures
+  - Advanced System Design
+  - Product Thinking
+```
+
+<br clear="both"/>
 
 <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40your-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0072B1?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <img src="./assets/cat_coding.png" width="500">
+  <br>
+  <em>When the build passes and the cat approves 🐱💗</em>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Tools
 
-<div align="center">
+<p align="center">
+  <img src="./assets/skills_cloud.png" width="600">
+</p>
 
-| Front‑End | Back‑End | DevOps | Design |
-|:----------|:---------|:-------|:-------|
-| ⚛️ React | 🌐 Node.js | 🚀 Vercel | 🎨 Figma |
-| 📚 TypeScript | 🐍 Python | 🐙 GitHub Actions | 🖌️ CSS / Tailwind |
-| 🌿 Next.js | ☁️ Firebase | 📦 npm | 📸 WebP Images |
-| 🎨 Chakra UI | 📊 MongoDB | 🔧 Docker | 🖼️ SVG Icons |
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projects & Highlights
+## 🌟 Featured Projects
 
 <table>
-  <tr>
-    <td align="center"><strong>💡  Portfolio Site</strong></td>
-    <td align="center"><strong>🚀  Hackathon Winner</strong></td>
-    <td align="center"><strong>🧩  Open‑Source Contributions</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://at-theta-rose.vercel.app/" target="_blank">
-        <img src="./assets/photos/hackathon-code.webp" alt="Portfolio Preview" width="200"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="./assets/photos/buzzer-quiz-2nd-prize.webp" alt="Hackathon Prize" width="200"/>
-    </td>
-    <td align="center">
-      <img src="./assets/photos/student-parliament-runner-up.webp" alt="Open‑Source" width="200"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SevaSetu
+Meaningful project focused on impact, clean architecture, and UX.
+
+<a href="https://github.com/agnibytes/SevaSetu">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=agnibytes&repo=SevaSetu&theme=radical&hide_border=true"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Portfolio
+Explore my builds and experiments.
+
+<a href="https://github.com/agnibytes">
+<img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 Achievements
+## 🧩 System Design Thinking
 
-- **Student Parliament Runner‑Up** – Recognized for leadership and community impact.  
-- **Buzzer Quiz 2nd Prize** – Fast‑thinking under pressure.  
-- **Hackathon Code** – Built a full‑stack solution in 24 hrs that won the top prize.
+- Scalability > shortcuts  
+- Clean architecture > messy hacks  
+- Performance > overengineering  
+- Simplicity > complexity  
 
 ---
 
-## 📈 GitHub Stats
+## 📖 Currently Learning
+
+- Advanced System Design  
+- Backend Architecture  
+- Linux Internals & DevOps  
+- Open Source  
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5 production-level projects  
+- Master system design  
+- Participate in 3+ hackathons  
+- Contribute to open source  
+
+---
+
+## 💡 Dev Philosophy
+
+> "Code is designed, tested, broken, and evolved."
+
+---
+
+## 😂 Dev Joke
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak"/>
+  <img 
+    src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" 
+    width="500"
+  />
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnibytes&show_icons=true&theme=radical&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnibytes&layout=compact&theme=radical&hide_border=true" width="310">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnibytes&theme=radical&hide_border=true" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnibytes&theme=react-dark&hide_border=true&area=true" width="800">
 </p>
 
 ---
 
-## 🧑‍💻 Current Focus
+## 🐍 Contribution Snake
 
-- **Deepening** expertise in **system design** and **micro‑frontend architecture**.  
-- **Contributing** to accessibility‑focused open‑source UI libraries.  
-- **Experimenting** with **WebGL‑based visualisations** for interactive portfolios.
-
----
-
-## 📚 Learning Roadmap
-
-| Quarter | Goal | Resources |
-|:-------:|------|-----------|
-| Q3 2024 | Master **Next.js 14** & **React Server Components** | Official docs, egghead.io |
-| Q4 2024 | Build a **Progressive Web App** for offline portfolio | PWAs.dev, Vercel examples |
-| Q1 2025 | Contribute to **TypeScript 4.x** core | GitHub issues, TypeScript handbook |
-| Q2 2025 | Publish a **design system** on npm | Storybook, Chakra UI |
+<p align="center">
+  <img src="https://github.com/agnibytes/agnibytes/blob/output/github-contribution-grid-snake.svg" width="800">
+</p>
 
 ---
 
-## ✍️ Quote I Live By
+## ✉️ Let's Connect
 
-> *“Code is not just a language; it’s a conversation between the mind and the machine.”* – **Aaditya**
+<p align="center">
+  <a href="https://github.com/agnibytes">
+    <img src="./assets/contact_card.png" width="400">
+  </a>
+</p>
+
+---
+
+## 💭 Thoughts of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600">
+</p>
+
+<p align="center">
+  <img src="./assets/footer_signature.png" width="400">
+</p>
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️, ☕, and a lot of **WebP**‑powered images.</sub>
+
+### Build. Break. Learn. Repeat.
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Build.%20Break.%20Learn.%20Repeat.&animation=fadeIn&type=waving&color=gradient&height=100&section=footer" width="800">
+</p>
